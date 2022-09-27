@@ -11,7 +11,7 @@ my_new_array=[]
 def my_number(z):
     for i in range (1,z+1):
         my_array.append(i)
-        print (my_array)
+        
 def primos(z):
     global flag
     flag=0
